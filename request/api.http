@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorted
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+}
